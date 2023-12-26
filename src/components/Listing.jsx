@@ -89,7 +89,7 @@ const Listing = () => {
             </div>
           </li>
 
-          <li class="py-2.5">
+          <li className="py-2.5">
             <div className="group flex justify-between gap-2 text-sm">
               <span>House rent</span>
               <div>
